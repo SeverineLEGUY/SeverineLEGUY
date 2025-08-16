@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**SeverineLEGUY/SeverineLEGUY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Séverine Leguy**  
+💡 Passionate about **Data Science** and **Data Engineering**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 👩‍💻 I love exploring data, building models, and designing data pipelines.
+- 🚀 Always learning new tools and technologies in the data ecosystem.
+- 🤝 Open to collaboration and new challenges in data-related projects.
+
+## Technologies & Tools
+
+- Python, SQL, Jupyter, Pandas, Scikit-learn, CNN, XGBoost, LLM
+-  Spark, Airflow, Docker, MLFlow  
+
+
+
+## Contact
+
+- [LinkedIn](https://[www.linkedin.com/in/severine-leguy/] *
+-
+
+---
+
+![Séverine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeverineLEGUY&show_icons=true&hide_title=true)
