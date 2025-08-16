@@ -21,8 +21,4 @@ I'm **Séverine Leguy**
 ## Contact
 
 - [LinkedIn](https://[www.linkedin.com/in/severine-leguy/] *
--
 
----
-
-![Séverine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeverineLEGUY&show_icons=true&hide_title=true)
